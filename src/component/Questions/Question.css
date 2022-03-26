@@ -1,0 +1,13 @@
+.question{
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+}
+.container{
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px;
+}
+.answer{
+    font-size: 2rem;
+}
